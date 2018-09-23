@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="cz">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Kostky.org &mdash; {{{title}}}</title>
+
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="/styles/main.css" type="text/css" />
+    </head>
+    <body>
+
+        <header>
+            <img src="/images/kostkylogo_trans.png" alt="kostky.org logo" height="176" width="800">
+	{{> menutop}}
+        </header>
+
+        <div class="main-wrapper">
+

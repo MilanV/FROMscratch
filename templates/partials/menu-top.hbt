@@ -1,0 +1,5 @@
+<ul class="menu">
+	{{#each collections.menutop}}
+	<li><a href=""></a></li>
+	{{/each}}
+</ul>

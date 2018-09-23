@@ -1,0 +1,13 @@
+header {
+	border-bottom: 1mm solid black;
+	padding-bottom: 0.5em;
+}
+
+footer {
+	border-top: 1mm solid black;
+	padding-top: 1em;
+}
+
+.main-wrapper {
+	font-family: Arial, Sans-serif;
+}
